@@ -1,0 +1,18 @@
+{
+  "name": "LaunchPad — AI Business Advisor",
+  "short_name": "LaunchPad",
+  "description": "AI-powered pricing, branding, product listings, and marketing for entrepreneurs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a2d5a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
